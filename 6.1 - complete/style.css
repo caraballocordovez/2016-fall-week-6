@@ -1,0 +1,12 @@
+.country circle{
+    fill-opacity:.1;
+    stroke:black;
+    stroke-width:1px;
+}
+.country text{
+    font-size:10px;
+}
+
+.axis .tick line{
+    stroke:rgb(150,150,150);
+}
